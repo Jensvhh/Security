@@ -1,0 +1,5 @@
+name: DebuffSecurity
+main: me.siaco.security.Security
+version: ${project.version}-B
+author: Siaco
+description: Plugin that helps to prevent staff abuses and account hackings/ETB's.
